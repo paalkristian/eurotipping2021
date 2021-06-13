@@ -1,0 +1,414 @@
+{
+    "name": "Resultater",
+    "fileName": "euro2020.xlsx",
+    "results": [
+        {
+            "matchNumber": 1,
+            "time": "2021-06-11T21:00:00.000Z",
+            "homeTeam": "Turkey",
+            "homeTeamScore": 0,
+            "awayTeamScore": 3,
+            "awayTeam": "Italy"
+        },
+        {
+            "matchNumber": 2,
+            "time": "2021-06-12T15:00:00.000Z",
+            "homeTeam": "Wales",
+            "homeTeamScore": 1,
+            "awayTeamScore": 1,
+            "awayTeam": "Switzerland"
+        },
+        {
+            "matchNumber": 3,
+            "time": "2021-06-12T18:00:00.000Z",
+            "homeTeam": "Denmark",
+            "homeTeamScore": 0,
+            "awayTeamScore": 1,
+            "awayTeam": "Finland"
+        },
+        {
+            "matchNumber": 4,
+            "time": "2021-06-12T21:00:00.000Z",
+            "homeTeam": "Belgium",
+            "homeTeamScore": 3,
+            "awayTeamScore": 0,
+            "awayTeam": "Russia"
+        },
+        {
+            "matchNumber": 5,
+            "time": "2021-06-13T15:00:00.000Z",
+            "homeTeam": "England",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Croatia"
+        },
+        {
+            "matchNumber": 6,
+            "time": "2021-06-13T18:00:00.000Z",
+            "homeTeam": "Austria",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "North Macedonia"
+        },
+        {
+            "matchNumber": 7,
+            "time": "2021-06-13T21:00:00.000Z",
+            "homeTeam": "Netherlands",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Ukraine"
+        },
+        {
+            "matchNumber": 8,
+            "time": "2021-06-14T15:00:00.000Z",
+            "homeTeam": "Scotland",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Czech Republic"
+        },
+        {
+            "matchNumber": 9,
+            "time": "2021-06-14T18:00:00.000Z",
+            "homeTeam": "Poland",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Slovakia"
+        },
+        {
+            "matchNumber": 10,
+            "time": "2021-06-14T21:00:00.000Z",
+            "homeTeam": "Spain",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Sweden"
+        },
+        {
+            "matchNumber": 11,
+            "time": "2021-06-15T18:00:00.000Z",
+            "homeTeam": "Hungary",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Portugal"
+        },
+        {
+            "matchNumber": 12,
+            "time": "2021-06-15T21:00:00.000Z",
+            "homeTeam": "France",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Germany"
+        },
+        {
+            "matchNumber": 13,
+            "time": "2021-06-16T15:00:00.000Z",
+            "homeTeam": "Finland",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Russia"
+        },
+        {
+            "matchNumber": 14,
+            "time": "2021-06-16T18:00:00.000Z",
+            "homeTeam": "Turkey",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Wales"
+        },
+        {
+            "matchNumber": 15,
+            "time": "2021-06-16T21:00:00.000Z",
+            "homeTeam": "Italy",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Switzerland"
+        },
+        {
+            "matchNumber": 16,
+            "time": "2021-06-17T15:00:00.000Z",
+            "homeTeam": "Ukraine",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "North Macedonia"
+        },
+        {
+            "matchNumber": 17,
+            "time": "2021-06-17T18:00:00.000Z",
+            "homeTeam": "Denmark",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Belgium"
+        },
+        {
+            "matchNumber": 18,
+            "time": "2021-06-17T21:00:00.000Z",
+            "homeTeam": "Netherlands",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Austria"
+        },
+        {
+            "matchNumber": 19,
+            "time": "2021-06-18T15:00:00.000Z",
+            "homeTeam": "Sweden",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Slovakia"
+        },
+        {
+            "matchNumber": 20,
+            "time": "2021-06-18T18:00:00.000Z",
+            "homeTeam": "Croatia",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Czech Republic"
+        },
+        {
+            "matchNumber": 21,
+            "time": "2021-06-18T21:00:00.000Z",
+            "homeTeam": "England",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Scotland"
+        },
+        {
+            "matchNumber": 22,
+            "time": "2021-06-19T15:00:00.000Z",
+            "homeTeam": "Hungary",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "France"
+        },
+        {
+            "matchNumber": 23,
+            "time": "2021-06-19T18:00:00.000Z",
+            "homeTeam": "Portugal",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Germany"
+        },
+        {
+            "matchNumber": 24,
+            "time": "2021-06-19T21:00:00.000Z",
+            "homeTeam": "Spain",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Poland"
+        },
+        {
+            "matchNumber": 25,
+            "time": "2021-06-20T18:00:00.000Z",
+            "homeTeam": "Switzerland",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Turkey"
+        },
+        {
+            "matchNumber": 26,
+            "time": "2021-06-20T18:00:00.000Z",
+            "homeTeam": "Italy",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Wales"
+        },
+        {
+            "matchNumber": 27,
+            "time": "2021-06-21T18:00:00.000Z",
+            "homeTeam": "North Macedonia",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Netherlands"
+        },
+        {
+            "matchNumber": 28,
+            "time": "2021-06-21T18:00:00.000Z",
+            "homeTeam": "Ukraine",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Austria"
+        },
+        {
+            "matchNumber": 29,
+            "time": "2021-06-21T21:00:00.000Z",
+            "homeTeam": "Russia",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Denmark"
+        },
+        {
+            "matchNumber": 30,
+            "time": "2021-06-21T21:00:00.000Z",
+            "homeTeam": "Finland",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Belgium"
+        },
+        {
+            "matchNumber": 31,
+            "time": "2021-06-22T21:00:00.000Z",
+            "homeTeam": "Croatia",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Scotland"
+        },
+        {
+            "matchNumber": 32,
+            "time": "2021-06-22T21:00:00.000Z",
+            "homeTeam": "Czech Republic",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "England"
+        },
+        {
+            "matchNumber": 33,
+            "time": "2021-06-23T18:00:00.000Z",
+            "homeTeam": "Sweden",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Poland"
+        },
+        {
+            "matchNumber": 34,
+            "time": "2021-06-23T18:00:00.000Z",
+            "homeTeam": "Slovakia",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Spain"
+        },
+        {
+            "matchNumber": 35,
+            "time": "2021-06-23T21:00:00.000Z",
+            "homeTeam": "Portugal",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "France"
+        },
+        {
+            "matchNumber": 36,
+            "time": "2021-06-23T21:00:00.000Z",
+            "homeTeam": "Germany",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Hungary"
+        },
+        {
+            "matchNumber": 37,
+            "time": "2021-06-26T18:00:00.000Z",
+            "homeTeam": "Group A Runner Up",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Group B Runner Up"
+        },
+        {
+            "matchNumber": 38,
+            "time": "2021-06-26T21:00:00.000Z",
+            "homeTeam": "Group A Winner",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Group C Runner Up"
+        },
+        {
+            "matchNumber": 39,
+            "time": "2021-06-27T18:00:00.000Z",
+            "homeTeam": "Group C Winner",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Group D/E/F 3rd Place"
+        },
+        {
+            "matchNumber": 40,
+            "time": "2021-06-27T21:00:00.000Z",
+            "homeTeam": "Group B Winner",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Group A/D/E/F 3rd Place"
+        },
+        {
+            "matchNumber": 41,
+            "time": "2021-06-28T18:00:00.000Z",
+            "homeTeam": "Group D Runner Up",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Group E Runner Up"
+        },
+        {
+            "matchNumber": 42,
+            "time": "2021-06-28T21:00:00.000Z",
+            "homeTeam": "Group F Winner",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Group A/B/C 3rd Place"
+        },
+        {
+            "matchNumber": 43,
+            "time": "2021-06-29T18:00:00.000Z",
+            "homeTeam": "Group D Winner",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Group F Runner Up"
+        },
+        {
+            "matchNumber": 44,
+            "time": "2021-06-29T21:00:00.000Z",
+            "homeTeam": "Group E Winner",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Group A/B/C/D 3rd Place"
+        },
+        {
+            "matchNumber": 45,
+            "time": "2021-07-02T18:00:00.000Z",
+            "homeTeam": "Match 42 Winner",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Match 41 Winner"
+        },
+        {
+            "matchNumber": 46,
+            "time": "2021-07-02T21:00:00.000Z",
+            "homeTeam": "Match 40 Winner",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Match 38 Winner"
+        },
+        {
+            "matchNumber": 47,
+            "time": "2021-07-03T18:00:00.000Z",
+            "homeTeam": "Match 39 Winner",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Match 37 Winner"
+        },
+        {
+            "matchNumber": 48,
+            "time": "2021-07-03T21:00:00.000Z",
+            "homeTeam": "Match 44 Winner",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Match 43 Winner"
+        },
+        {
+            "matchNumber": 49,
+            "time": "2021-07-06T21:00:00.000Z",
+            "homeTeam": "Match 45 Winner",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Match 46 Winner"
+        },
+        {
+            "matchNumber": 50,
+            "time": "2021-07-07T21:00:00.000Z",
+            "homeTeam": "Match 47 Winner",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Match 48 Winner"
+        },
+        {
+            "matchNumber": 51,
+            "time": "2021-07-11T21:00:00.000Z",
+            "homeTeam": "Match 49 Winner",
+            "homeTeamScore": null,
+            "awayTeamScore": null,
+            "awayTeam": "Match 50 Winner"
+        }
+    ]
+}

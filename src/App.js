@@ -36,13 +36,13 @@ function matchScore(result, guess) {
     return 0;
   }
 
-  // Tippet riktig antall mål
+  // Tippet riktig resultat
   if (result.homeTeamScore === guess.homeTeamScore && result.awayTeamScore === guess.awayTeamScore) {
-    return 2;
+    return 4;
   }
-  // Tippet riktig vinner eller uavgjort
+  // Riktig utfall, feil resultat
   if (getWinnerLooserDraw(result) === getWinnerLooserDraw(guess)) {
-    return 1;
+    return 2;
   }
   return 0;
 }
@@ -55,7 +55,7 @@ function getWinnerLooserDraw(match) {
 }
 
 function App() {
-  const points = calculateScores(results.results, playerGuesses);
+  const points = calculateScores(results.results, playerGuesses).sort((a, b) => a.sum < b.sum);
   console.log(points);
 
   return (
@@ -66,8 +66,8 @@ function App() {
         </h2>
         
       </header>
-      <ul>
-        {points.map((p, idx) => <li>{idx + 1}. {p.name}, {p.sum}</li>)}
+      <ul className="resultList">
+        {points.map((p, idx) => <li className="resultList-li"><div>{p.name}</div> <div className="points">{p.sum}</div></li>)}
       </ul>
     </div>
   );

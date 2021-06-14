@@ -8,7 +8,10 @@
             "homeTeam": "Turkey",
             "homeTeamScore": 0,
             "awayTeamScore": 3,
-            "awayTeam": "Italy"
+            "awayTeam": "Italy",
+            "matchStage": "A",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 2,
@@ -16,7 +19,10 @@
             "homeTeam": "Wales",
             "homeTeamScore": 1,
             "awayTeamScore": 1,
-            "awayTeam": "Switzerland"
+            "awayTeam": "Switzerland",
+            "matchStage": "A",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 3,
@@ -24,7 +30,10 @@
             "homeTeam": "Denmark",
             "homeTeamScore": 0,
             "awayTeamScore": 1,
-            "awayTeam": "Finland"
+            "awayTeam": "Finland",
+            "matchStage": "B",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 4,
@@ -32,31 +41,43 @@
             "homeTeam": "Belgium",
             "homeTeamScore": 3,
             "awayTeamScore": 0,
-            "awayTeam": "Russia"
+            "awayTeam": "Russia",
+            "matchStage": "B",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 5,
             "time": "2021-06-13T15:00:00.000Z",
             "homeTeam": "England",
-            "homeTeamScore": null,
-            "awayTeamScore": null,
-            "awayTeam": "Croatia"
+            "homeTeamScore": 1,
+            "awayTeamScore": 0,
+            "awayTeam": "Croatia",
+            "matchStage": "D",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 6,
             "time": "2021-06-13T18:00:00.000Z",
             "homeTeam": "Austria",
-            "homeTeamScore": null,
-            "awayTeamScore": null,
-            "awayTeam": "North Macedonia"
+            "homeTeamScore": 3,
+            "awayTeamScore": 1,
+            "awayTeam": "North Macedonia",
+            "matchStage": "C",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 7,
             "time": "2021-06-13T21:00:00.000Z",
             "homeTeam": "Netherlands",
-            "homeTeamScore": null,
-            "awayTeamScore": null,
-            "awayTeam": "Ukraine"
+            "homeTeamScore": 3,
+            "awayTeamScore": 2,
+            "awayTeam": "Ukraine",
+            "matchStage": "C",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 8,
@@ -64,7 +85,10 @@
             "homeTeam": "Scotland",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Czech Republic"
+            "awayTeam": "Czech Republic",
+            "matchStage": "D",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 9,
@@ -72,7 +96,10 @@
             "homeTeam": "Poland",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Slovakia"
+            "awayTeam": "Slovakia",
+            "matchStage": "E",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 10,
@@ -80,7 +107,10 @@
             "homeTeam": "Spain",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Sweden"
+            "awayTeam": "Sweden",
+            "matchStage": "E",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 11,
@@ -88,7 +118,10 @@
             "homeTeam": "Hungary",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Portugal"
+            "awayTeam": "Portugal",
+            "matchStage": "F",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 12,
@@ -96,7 +129,10 @@
             "homeTeam": "France",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Germany"
+            "awayTeam": "Germany",
+            "matchStage": "F",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 13,
@@ -104,7 +140,10 @@
             "homeTeam": "Finland",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Russia"
+            "awayTeam": "Russia",
+            "matchStage": "B",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 14,
@@ -112,7 +151,10 @@
             "homeTeam": "Turkey",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Wales"
+            "awayTeam": "Wales",
+            "matchStage": "A",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 15,
@@ -120,7 +162,10 @@
             "homeTeam": "Italy",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Switzerland"
+            "awayTeam": "Switzerland",
+            "matchStage": "A",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 16,
@@ -128,7 +173,10 @@
             "homeTeam": "Ukraine",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "North Macedonia"
+            "awayTeam": "North Macedonia",
+            "matchStage": "C",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 17,
@@ -136,7 +184,10 @@
             "homeTeam": "Denmark",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Belgium"
+            "awayTeam": "Belgium",
+            "matchStage": "B",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 18,
@@ -144,7 +195,10 @@
             "homeTeam": "Netherlands",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Austria"
+            "awayTeam": "Austria",
+            "matchStage": "C",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 19,
@@ -152,7 +206,10 @@
             "homeTeam": "Sweden",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Slovakia"
+            "awayTeam": "Slovakia",
+            "matchStage": "E",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 20,
@@ -160,7 +217,10 @@
             "homeTeam": "Croatia",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Czech Republic"
+            "awayTeam": "Czech Republic",
+            "matchStage": "D",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 21,
@@ -168,7 +228,10 @@
             "homeTeam": "England",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Scotland"
+            "awayTeam": "Scotland",
+            "matchStage": "D",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 22,
@@ -176,7 +239,10 @@
             "homeTeam": "Hungary",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "France"
+            "awayTeam": "France",
+            "matchStage": "F",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 23,
@@ -184,7 +250,10 @@
             "homeTeam": "Portugal",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Germany"
+            "awayTeam": "Germany",
+            "matchStage": "F",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 24,
@@ -192,7 +261,10 @@
             "homeTeam": "Spain",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Poland"
+            "awayTeam": "Poland",
+            "matchStage": "E",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 25,
@@ -200,7 +272,10 @@
             "homeTeam": "Switzerland",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Turkey"
+            "awayTeam": "Turkey",
+            "matchStage": "A",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 26,
@@ -208,7 +283,10 @@
             "homeTeam": "Italy",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Wales"
+            "awayTeam": "Wales",
+            "matchStage": "A",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 27,
@@ -216,7 +294,10 @@
             "homeTeam": "North Macedonia",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Netherlands"
+            "awayTeam": "Netherlands",
+            "matchStage": "C",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 28,
@@ -224,7 +305,10 @@
             "homeTeam": "Ukraine",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Austria"
+            "awayTeam": "Austria",
+            "matchStage": "C",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 29,
@@ -232,7 +316,10 @@
             "homeTeam": "Russia",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Denmark"
+            "awayTeam": "Denmark",
+            "matchStage": "B",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 30,
@@ -240,7 +327,10 @@
             "homeTeam": "Finland",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Belgium"
+            "awayTeam": "Belgium",
+            "matchStage": "B",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 31,
@@ -248,7 +338,10 @@
             "homeTeam": "Croatia",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Scotland"
+            "awayTeam": "Scotland",
+            "matchStage": "D",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 32,
@@ -256,7 +349,10 @@
             "homeTeam": "Czech Republic",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "England"
+            "awayTeam": "England",
+            "matchStage": "D",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 33,
@@ -264,7 +360,10 @@
             "homeTeam": "Sweden",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Poland"
+            "awayTeam": "Poland",
+            "matchStage": "E",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 34,
@@ -272,7 +371,10 @@
             "homeTeam": "Slovakia",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Spain"
+            "awayTeam": "Spain",
+            "matchStage": "E",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 35,
@@ -280,7 +382,10 @@
             "homeTeam": "Portugal",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "France"
+            "awayTeam": "France",
+            "matchStage": "F",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 36,
@@ -288,7 +393,10 @@
             "homeTeam": "Germany",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Hungary"
+            "awayTeam": "Hungary",
+            "matchStage": "F",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 37,
@@ -296,7 +404,10 @@
             "homeTeam": "Group A Runner Up",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Group B Runner Up"
+            "awayTeam": "Group B Runner Up",
+            "matchStage": "Round of 16",
+            "homeTeamPso": 1,
+            "awayTeamPso": 5
         },
         {
             "matchNumber": 38,
@@ -304,7 +415,10 @@
             "homeTeam": "Group A Winner",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Group C Runner Up"
+            "awayTeam": "Group C Runner Up",
+            "matchStage": "Round of 16",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 39,
@@ -312,7 +426,10 @@
             "homeTeam": "Group C Winner",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Group D/E/F 3rd Place"
+            "awayTeam": "Group D/E/F 3rd Place",
+            "matchStage": "Round of 16",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 40,
@@ -320,7 +437,10 @@
             "homeTeam": "Group B Winner",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Group A/D/E/F 3rd Place"
+            "awayTeam": "Group A/D/E/F 3rd Place",
+            "matchStage": "Round of 16",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 41,
@@ -328,7 +448,10 @@
             "homeTeam": "Group D Runner Up",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Group E Runner Up"
+            "awayTeam": "Group E Runner Up",
+            "matchStage": "Round of 16",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 42,
@@ -336,7 +459,10 @@
             "homeTeam": "Group F Winner",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Group A/B/C 3rd Place"
+            "awayTeam": "Group A/B/C 3rd Place",
+            "matchStage": "Round of 16",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 43,
@@ -344,7 +470,10 @@
             "homeTeam": "Group D Winner",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Group F Runner Up"
+            "awayTeam": "Group F Runner Up",
+            "matchStage": "Round of 16",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 44,
@@ -352,7 +481,10 @@
             "homeTeam": "Group E Winner",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Group A/B/C/D 3rd Place"
+            "awayTeam": "Group A/B/C/D 3rd Place",
+            "matchStage": "Round of 16",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 45,
@@ -360,7 +492,10 @@
             "homeTeam": "Match 42 Winner",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Match 41 Winner"
+            "awayTeam": "Match 41 Winner",
+            "matchStage": "Quarter Finals",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 46,
@@ -368,7 +503,10 @@
             "homeTeam": "Match 40 Winner",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Match 38 Winner"
+            "awayTeam": "Match 38 Winner",
+            "matchStage": "Quarter Finals",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 47,
@@ -376,7 +514,10 @@
             "homeTeam": "Match 39 Winner",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Match 37 Winner"
+            "awayTeam": "Match 37 Winner",
+            "matchStage": "Quarter Finals",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 48,
@@ -384,7 +525,10 @@
             "homeTeam": "Match 44 Winner",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Match 43 Winner"
+            "awayTeam": "Match 43 Winner",
+            "matchStage": "Quarter Finals",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 49,
@@ -392,7 +536,10 @@
             "homeTeam": "Match 45 Winner",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Match 46 Winner"
+            "awayTeam": "Match 46 Winner",
+            "matchStage": "Semi Finals",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 50,
@@ -400,7 +547,10 @@
             "homeTeam": "Match 47 Winner",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Match 48 Winner"
+            "awayTeam": "Match 48 Winner",
+            "matchStage": "Semi Finals",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         },
         {
             "matchNumber": 51,
@@ -408,7 +558,10 @@
             "homeTeam": "Match 49 Winner",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Match 50 Winner"
+            "awayTeam": "Match 50 Winner",
+            "matchStage": "Final",
+            "homeTeamPso": null,
+            "awayTeamPso": null
         }
     ]
 }

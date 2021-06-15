@@ -55,7 +55,7 @@ function getWinnerLooserDraw(match) {
 }
 
 function App() {
-  const points = calculateScores(results.results, playerGuesses).sort((a, b) => a.sum < b.sum);
+  const points = calculateScores(results.results, playerGuesses).sort((a, b) => b.sum - a.sum);
   console.log(points);
 
   return (

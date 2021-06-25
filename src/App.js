@@ -7,11 +7,13 @@ function calculateScores(results, playerGuesses) {
   if (results === undefined) {
     return [];
   }
+  console.log(getTeamsAtStage(results, 'Round of 16'));
   const points = playerGuesses.map(p => {
     const playersPoints = calculatePlayerPoints(results, p.results);
+
     return {
       points: playersPoints,
-      sum: playersPoints.reduce((prev, next) => prev + next, 0),
+      sum: playersPoints.reduce((prev, next) => prev + next, 0) +  calculateStagePoints(results, p.results),
       name: p.name
     };
   }); 
@@ -28,6 +30,38 @@ function calculatePlayerPoints(results, guesses) {
     });
   
   return points;
+}
+
+function calculateStagePoints(results, guesses) {
+  const roundOf16 = "Round of 16";
+  const quarterFinals = "Quarter Finals";
+  const semiFinals = "Semi Finals";
+  const final = 'Final';
+
+  const r16 = calculatePointsAtStage(roundOf16, results, guesses, 2);
+  const stagePoints = calculatePointsAtStage(roundOf16, results, guesses, 2) +
+                      calculatePointsAtStage(quarterFinals, results, guesses, 4) +
+                      calculatePointsAtStage(semiFinals, results, guesses, 6) +
+                      calculatePointsAtStage(final, results, guesses, 8);
+  console.log('Seeeeems correct right?:', r16 === stagePoints);
+  return stagePoints;
+
+}
+
+function calculatePointsAtStage(stage, results, guesses, multiplyer) {
+  const guessedTeamsAtStage = getTeamsAtStage(guesses, stage);
+  const actualTeamsAtStage = getTeamsAtStage(results, stage);
+  // console.log(guessedTeamsAtStage);
+  // console.log(actualTeamsAtStage);
+  const correctGuesses = actualTeamsAtStage.filter(t => guessedTeamsAtStage.indexOf(t) > -1).length;
+  return correctGuesses * multiplyer;
+}
+
+function getTeamsAtStage(matches, stage) {
+  return matches.filter(m => m.matchStage === stage)
+                .map(m => [m.homeTeam, m.awayTeam])
+                .reduce((prev, next) => [...prev, ...next], []);
+
 }
 
 function matchScore(result, guess) {

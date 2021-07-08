@@ -534,19 +534,19 @@
             "matchNumber": 49,
             "time": "2021-07-06T21:00:00.000Z",
             "homeTeam": "Spain",
-            "homeTeamScore": null,
-            "awayTeamScore": null,
+            "homeTeamScore": 1,
+            "awayTeamScore": 1,
             "awayTeam": "Italy",
             "matchStage": "Semi Finals",
-            "homeTeamPso": null,
-            "awayTeamPso": null
+            "homeTeamPso": 2,
+            "awayTeamPso": 4
         },
         {
             "matchNumber": 50,
             "time": "2021-07-07T21:00:00.000Z",
             "homeTeam": "Denmark",
-            "homeTeamScore": null,
-            "awayTeamScore": null,
+            "homeTeamScore": 1,
+            "awayTeamScore": 2,
             "awayTeam": "England",
             "matchStage": "Semi Finals",
             "homeTeamPso": null,
@@ -555,10 +555,10 @@
         {
             "matchNumber": 51,
             "time": "2021-07-11T21:00:00.000Z",
-            "homeTeam": "Match 49 Winner",
+            "homeTeam": "Italy",
             "homeTeamScore": null,
             "awayTeamScore": null,
-            "awayTeam": "Match 50 Winner",
+            "awayTeam": "England",
             "matchStage": "Final",
             "homeTeamPso": null,
             "awayTeamPso": null

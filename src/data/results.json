@@ -556,12 +556,12 @@
             "matchNumber": 51,
             "time": "2021-07-11T21:00:00.000Z",
             "homeTeam": "Italy",
-            "homeTeamScore": null,
-            "awayTeamScore": null,
+            "homeTeamScore": 1,
+            "awayTeamScore": 1,
             "awayTeam": "England",
             "matchStage": "Final",
-            "homeTeamPso": null,
-            "awayTeamPso": null
+            "homeTeamPso": 3,
+            "awayTeamPso": 2
         }
     ]
 }
